@@ -36,7 +36,7 @@ reflex run
 
 - **Clona** tu Fork:
     ```bash 
-    git clone https://github.com/MyDiDev/Calculadora-IRS.git
+    git clone https://github.com/MyDiDev/ReflexLandingPage.git
     ```
 - **Crea** una nueva Rama:
     ```bash
